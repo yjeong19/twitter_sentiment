@@ -1,7 +1,6 @@
 # Twitter sentiment challenge
 
-code to take tweets from @realDonaldTrump and create a csv file displaying status and the tweet's polarity and subjectivity values,
-then creates a csv file containing the data
+code to take tweets from @realDonaldTrump and create a csv file displaying status and the tweet's polarity and subjectivity values.
 
 # Dependencies
 
