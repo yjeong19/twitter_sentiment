@@ -11,7 +11,6 @@ then creates a csv file containing the data
 ## Usage
 install missing dependencies using [pip]
 
-### to run
 ```
 python twitter_sentiment.py
 ```
